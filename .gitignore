@@ -1,0 +1,26 @@
+# Gradle build output
+build/
+
+# Gradle cache
+.gradle/
+
+# Local configuration
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+#Python virtual environment named venv
+venv/
+#The rest I do not know
+__pycache__/
+*.pyc
+.env

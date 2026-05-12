@@ -1,0 +1,12 @@
+pymysql
+fastapi[standard]
+uvicorn
+pymysql
+sqlalchemy
+python-dotenv
+opencv-python
+numpy
+python-multipart
+alembic
+cryptography
+mediapipe

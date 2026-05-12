@@ -1,0 +1,10 @@
+Generic single-database configuration.
+
+Used for dynamic DB migration.
+In order to use you pip install cryptography and alembic
+
+alembic revision --autogenerate -m "PLACEHOLDER MESSAGE"
+alembic upgrade head
+run main.py
+
+This will update the database's tables while keeping the data we already have locally.
