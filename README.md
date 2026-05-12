@@ -51,7 +51,7 @@ Align helps gym-goers perform exercises safely and effectively by comparing thei
 | Justin Forbes | Backend, MediaPipe integration, camera features, DB connectivity, performance chart |
 | Jordan Alonzo | Frontend UI (login, exercise selection, performance graph), DB schema |
 | Radion Radion | ML model development, password systems, video hosting |
-| Wilbert DeJesus | System architecture, account management, DevOps, ML fast-forwarding |
+| Wilbert DeJesus | Account Management|
 
 ## Future Work
 
